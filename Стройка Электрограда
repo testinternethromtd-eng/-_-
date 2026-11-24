@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Набор строителей — Minecraft-проект метро и города</title>
+  <meta name="description" content="Набор строителей в Minecraft-проект: метро, железная дорога и большой город. Без оплаты — за идею и творчество.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- ШАПКА -->
+  <header class="topbar">
+    <div class="container topbar__inner">
+      <a href="#top" class="logo">⛏ <span>BUILD</span>TEAM</a>
+      <nav class="nav">
+        <a href="#roles">Роли</a>
+        <a href="#terms">Условия</a>
+        <a href="#contact">Связь</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- ГЛАВНЫЙ БЛОК -->
+  <section class="hero" id="top">
+    <div class="container hero__inner">
+      <span class="badge">Набор открыт · без оплаты</span>
+      <h1>Строим метро и&nbsp;город <em>вместе</em></h1>
+      <p class="hero__lead">
+        Мы делаем большой Minecraft-проект: подземное метро, железные дороги
+        и целый город вокруг них. Используем моды <strong>MTR</strong> и
+        <strong>WorldEdit</strong>. Ищем людей, которым нравится строить —
+        за идею, творчество и общий результат.
+      </p>
+      <div class="hero__actions">
+        <a href="#contact" class="btn btn--primary">Подать заявку</a>
+        <a href="#roles" class="btn btn--ghost">Смотреть роли</a>
+      </div>
+
+      <ul class="hero__stats">
+        <li><b>Метро</b><span>станции и тоннели</span></li>
+        <li><b>Ж/Д</b><span>линии и узлы</span></li>
+        <li><b>Город</b><span>кварталы и районы</span></li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- РОЛИ -->
+  <section class="section" id="roles">
+    <div class="container">
+      <h2 class="section__title">Кого мы ищем</h2>
+      <p class="section__sub">Выбери роль по душе — можно совмещать.</p>
+
+      <div class="cards">
+        <article class="card">
+          <div class="card__icon">🚇</div>
+          <h3>Строители станций и тоннелей</h3>
+          <p>Возводите станции метро, платформы, вестибюли и тоннели. Работа с MTR, продуманная планировка и аккуратные детали.</p>
+          <ul class="card__tags">
+            <li>MTR</li><li>WorldEdit</li><li>Интерьеры</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <div class="card__icon">🏙</div>
+          <h3>Архитекторы города</h3>
+          <p>Планируете районы, улицы и ключевые здания, держите единый стиль и логику застройки вокруг линий метро и железной дороги.</p>
+          <ul class="card__tags">
+            <li>Генплан</li><li>Здания</li><li>Стиль</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <div class="card__icon">🌳</div>
+          <h3>Декораторы</h3>
+          <p>Оживляете проект: озеленение, освещение, вывески, мебель, мелкие детали. Именно они делают город «настоящим».</p>
+          <ul class="card__tags">
+            <li>Детали</li><li>Ландшафт</li><li>Свет</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <div class="card__icon">🤝</div>
+          <h3>Помощники</h3>
+          <p>Нет большого опыта? Не страшно. Добыча ресурсов, заливка территорий, расчистка, простые постройки — отличный старт в команде.</p>
+          <ul class="card__tags">
+            <li>Ресурсы</li><li>Подготовка</li><li>Обучение</li>
+          </ul>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- УСЛОВИЯ -->
+  <section class="section section--alt" id="terms">
+    <div class="container">
+      <h2 class="section__title">Условия для участников</h2>
+      <p class="section__sub">Всё честно и прозрачно — заранее.</p>
+
+      <ul class="terms">
+        <li class="term">
+          <span class="term__mark">✔</span>
+          <div>
+            <h3>Участие без оплаты — за идею</h3>
+            <p>Проект некоммерческий: денег нет. Мы строим ради идеи, творчества и общего результата.</p>
+          </div>
+        </li>
+        <li class="term">
+          <span class="term__mark">✔</span>
+          <div>
+            <h3>Креатив, WorldEdit и права на сервере</h3>
+            <p>Выдаём творческий режим, доступ к WorldEdit и нужные права на сервере для строительства. Объём прав зависит от роли.</p>
+          </div>
+        </li>
+        <li class="term">
+          <span class="term__mark">✔</span>
+          <div>
+            <h3>Формат игры и подключения</h3>
+            <p>Свободный график, без обязательных норм. Подключаешься к серверу, когда удобно, а детали и версию клиента сообщим после одобрения заявки.</p>
+          </div>
+        </li>
+        <li class="term">
+          <span class="term__mark">✔</span>
+          <div>
+            <h3>Упоминание в титрах и на проекте</h3>
+            <p>Имена участников указываем в титрах и на страницах проекта — твой вклад не останется незамеченным.</p>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- СВЯЗЬ -->
+  <section class="section contact" id="contact">
+    <div class="container contact__inner">
+      <h2 class="section__title">Готов присоединиться?</h2>
+      <p class="section__sub">
+        Напиши нам в Telegram: расскажи, что умеешь строить, и покажи примеры работ, если они есть.
+      </p>
+
+      <div class="contact__actions">
+        <a href="https://t.me/electrograd_city" class="btn btn--primary" target="_blank" rel="noopener">Telegram-канал проекта</a>
+        <a href="https://t.me/Daejeon_st" class="btn btn--ghost" target="_blank" rel="noopener">Написать в личку</a>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      <p>Некоммерческий фан-проект. Не является продуктом Mojang или Microsoft.</p>
+    </div>
+  </footer>
+
+</body>
+</html>
